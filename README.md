@@ -14,4 +14,9 @@ Here is the summary statistics of December temperatures
 - Also, analyzing the maximum and minimum temperatures, there is no difference in the maximum. June is 85, and December is 83. However, studying the minimum is where we enter attention data. As previously said, December is in the inverse season; what is expected is a colder temperature, so the minimum is at 53 degrees and in June, it is at 64.
 
 ## Summary 
+
+
+
 ## Resources
+- Data: hawaii.sqlite
+- Source: Pandas, Jupyter 
