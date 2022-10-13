@@ -18,15 +18,16 @@ Here is the summary statistics of December temperatures
 - Also, analyzing the maximum and minimum temperatures, there is no difference in the maximum. June is 85, and December is 83. However, studying the minimum is where we enter attention data. As previously said, December is in the inverse season; what is expected is a colder temperature, so the minimum is at 53 degrees and in June, it is at 64.
 
 ## Summary 
-1. 
-![pcrp_query](pcrp_query.png).
-![june_pcrp](june_pcrp.png).
-![december_pcrp](december_pcrp.png).
-
-2.
+1. I would do a histogram plot for the first additional query to better visualize the difference between June and December temperatures. With this graph, you can see how different the temperatures were during these months.
 ![plot_query](plot_query.png).
 ![june_plot](june_plot.png).
 ![december_plot](december_plot.png).
+
+
+2. The second additional query would do the Precipitation, to analyze the difference between those months, to determine if one has more rainy weather
+![pcrp_query](pcrp_query.png).
+![june_pcrp](june_pcrp.png).
+![december_pcrp](december_pcrp.png).
 
 
 ## Resources
